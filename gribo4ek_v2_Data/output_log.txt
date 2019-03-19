@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1130 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.129 seconds
+Platform assembly: D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity projects\Gribochek\gribo4ek_v2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 Не удается найти указанный файл.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.471402 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.823361 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 556.
+Total: 0.409692 ms (FindLiveObjects: 0.054312 ms CreateObjectMapping: 0.040627 ms MarkObjects: 0.307910 ms  DeleteObjects: 0.005987 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.488662 ms
+
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 1.457871 ms (FindLiveObjects: 0.073556 ms CreateObjectMapping: 0.057305 ms MarkObjects: 0.758657 ms  DeleteObjects: 0.565358 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: a34 -> priority: 1 
+  Thread -> id: 1c98 -> priority: 1 
